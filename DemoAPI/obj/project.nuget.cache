@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "9FCBdzlEf2jda6wTP83yJ6K00N4KKTG65QDP7rqbUGrMvvyHSs+KEfUYR0R90GRbGb2hgWi4H8FI1XGi79swMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ChumaM\\source\\repos\\MediaRDemo\\DemoAPI\\DemoAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ChumaM\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\ChumaM\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\ChumaM\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ChumaM\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\ChumaM\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ChumaM\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\ChumaM\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\ChumaM\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\ChumaM\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

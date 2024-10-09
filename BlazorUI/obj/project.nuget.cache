@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p8E+An/TIfuc5ppzlNp+8Xitnjqm42S3jtuCWwO0o4Z3KTCmf9dDXqaxfXJTQVzrbFFr+6QqKbsJ9Do4aKcASw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ChumaM\\source\\repos\\MediaRDemo\\BlazorUI\\BlazorUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ChumaM\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\ChumaM\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\ChumaM\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
